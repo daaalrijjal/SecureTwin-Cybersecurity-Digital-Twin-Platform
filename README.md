@@ -1,15 +1,5 @@
 # SecureTwin - Cybersecurity Digital Twin Platform
-## Project Overview
-
-SecureTwin is a **Cybersecurity Digital Twin Application** designed to simulate real-world cyberattacks in a virtual environment. It enables organizations to test their defenses, improve threat detection, and ensure compliance with cybersecurity standards like **GDPR** and **ISO 27001**.
-
-## Key Objectives
-
-- Simulate 5+ predefined attack types (e.g., DDoS, phishing)
-- Monitor system resilience in real-time
-- Generate instant alerts on threat detection
-- Support role-based access control (RBAC)
-- Track security compliance
+SecureTwin is a Cybersecurity Digital Twin platform that allows organizations to simulate real-world cyberattacks in a risk-free virtual environment. It empowers security teams to test and optimize their defenses using real-time attack simulations, AI-powered threat detection, dynamic response strategies, and compliance monitoring. Designed with scalability and modularity in mind, SecureTwin supports role-based access control, instant alerting, and visual dashboards—offering a proactive approach to modern cybersecurity challenges.
 
 ## 📄 Final Report
 
